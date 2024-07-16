@@ -1,0 +1,12 @@
+.welcome-image {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f8b739;
+}
+
+.welcome-image img {
+  max-width: 100%;
+  height: auto;
+}
